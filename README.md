@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **supermetax/SuperMetax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m the "Super Hero" (😄 He/Him) of my Metaverse;
+- 👀 I’m (super) interested in (digital) technologies & specially the applications of latest AI research in NLP and Computer Vision to different domains;
+- 🌱 In my free time I do enjoy creating digital art, videos, photography & (sometimes) poerty;
+- ⚡ I often collaborate with others creators to develop creative digital art/ media works;
+- 📫 Currently, the best way to reach me is via this GitHub repo or my Twitter 💬: [SuperMetaX](https://twitter.com/SuperMetaX)
